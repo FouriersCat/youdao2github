@@ -1,5 +1,5 @@
 
-This repository is used to markdown's image link from youdaoyun to github.
+This repository is used to change markdown's image link from youdaoyun to github.
 
 Cause of this repository:     
 
